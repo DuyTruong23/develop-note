@@ -1,0 +1,1 @@
+[[Khái niệm hàm (function)]][[Tham số trong hàm]][[Từ khóa return trong hàm]][[Các loại hàm]]

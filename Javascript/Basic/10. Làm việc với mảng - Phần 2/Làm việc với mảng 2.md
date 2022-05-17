@@ -1,0 +1,1 @@
+[[So sánh vòng lặp và hàm()]][[Array methods]][[Array map() method - thay đổi,sao chép mảng]][[Array reduce() method - lặp xử lý bài toán]][[Ex - Array reduce() method]][[Phương thức reduce có logic như thế nào]][[String,Array includes() method - tìm 1 phần tử ,chuỗi]]

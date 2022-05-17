@@ -1,0 +1,15 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "spellcheck": false,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "showUnsupportedFiles": true
+}

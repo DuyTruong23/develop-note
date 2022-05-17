@@ -1,0 +1,1 @@
+[[Toán tử số học]][[Toán tử gán]][[Toán tữ chuỗi]][[Kiểu dữ liệu boolean]][[Nguyên lý hoạt động của ++ --]][[Toán tữ so sánh]][[Kiểu dữ liệu]][[Toán tử logical]][[Toán tử so sánh II]][[Truthy và Falsy]][[Kiểm tra kiểu dữ liệu 2]][[Câu điều kiện if]]

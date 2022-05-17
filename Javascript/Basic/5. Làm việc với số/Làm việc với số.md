@@ -1,0 +1,1 @@
+[[Kiểu dữ liệu số (Number)]][[Số và làm việc với số]][[Viết hàm kiểm tra kiểu number 1]][[Viết hàm kiểm tra kiểu number 2]]

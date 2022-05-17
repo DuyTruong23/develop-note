@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "72222571527461fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b06c6ca7cdc96f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React/5. Hooks/5. useMemo().md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d1dfa3439bd743d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabe6121e59fc049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a5d1c5546ce381c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7696ddfe857c8a2a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 172.5
+  },
+  "right": {
+    "id": "a482ff34f7b9dd67",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa683dbbd4cce3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21dfd92bf1ec82ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53c5e8c63cf2e724",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b06c6ca7cdc96f3",
+  "lastOpenFiles": [
+    "React/5. Hooks/5. useMemo().md",
+    "React/5. Hooks/5. Hook.md",
+    "React/5. Hooks/1. useState().md",
+    "React/5. Hooks/2. useEffect().md",
+    "React/5. Hooks/3. useLayoutEffect().md",
+    "React/5. Hooks/4. Mounted & Umounted.md",
+    "React/3. JSX, components, Props/3. JSX, components, Props.md",
+    "React/2. React, ReactDOM/2. React, ReactDOM.md",
+    "Redux/2. hobby app.md",
+    "Redux/1. introduce.md"
+  ]
+}

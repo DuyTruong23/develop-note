@@ -1,0 +1,1 @@
+[[Object là gì]][[Object constructor]][[Object prototype - Basic]][[Đối tượng Date]][[Math object]]
