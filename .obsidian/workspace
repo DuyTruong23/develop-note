@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/5. Hooks/5. useMemo().md",
+            "file": "Redux/1. introduce.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 172.5
+    "width": 274.5
   },
   "right": {
     "id": "a482ff34f7b9dd67",
@@ -79,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redux/1. introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "5b06c6ca7cdc96f3",
   "lastOpenFiles": [
+    "Redux/1. introduce.md",
+    "Redux/2. hobby app.md",
+    "Redux/Kiến trúc Redux.md",
     "React/5. Hooks/5. useMemo().md",
     "React/5. Hooks/5. Hook.md",
     "React/5. Hooks/1. useState().md",
     "React/5. Hooks/2. useEffect().md",
     "React/5. Hooks/3. useLayoutEffect().md",
     "React/5. Hooks/4. Mounted & Umounted.md",
-    "React/3. JSX, components, Props/3. JSX, components, Props.md",
-    "React/2. React, ReactDOM/2. React, ReactDOM.md",
-    "Redux/2. hobby app.md",
-    "Redux/1. introduce.md"
+    "React/3. JSX, components, Props/3. JSX, components, Props.md"
   ]
 }
